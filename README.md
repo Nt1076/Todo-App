@@ -1,16 +1,9 @@
-# fluttertodo
+# ToDo App
 
-A new Flutter project.
+📝📝📝An application that allows you to create, update, delete and maintain a Todo list. It also allows you to mark a task as completed.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Add a subheading (2)](https://github.com/Nt1076/Todo-App/assets/96333085/14221bad-fdf6-486c-97b7-336b4bb59b5e)
